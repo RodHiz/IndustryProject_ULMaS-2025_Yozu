@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+flask
+matplotlib
+
+
+Industry Project - Yozu/
+├── data/               # Datasets
+├── models/             # Python scripts for data modeling
+├── backend/            # Flask/Django(using flask) backend
+├── frontend/           # HTML, CSS, JavaScript files
+├── main.py             # Entry point script
+└── requirements.txt    # Dependencies for the project
