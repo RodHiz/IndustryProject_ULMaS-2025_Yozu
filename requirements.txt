@@ -1,14 +1,10 @@
-pandas
-numpy
-scikit-learn
-flask
-matplotlib
+Tkimnter==0.1.0
 
 
 Industry Project - Yozu/
-├── data/               # Datasets
+├── data/               # Datasets/database
 ├── models/             # Python scripts for data modeling
-├── backend/            # Flask/Django(using flask) backend
-├── frontend/           # HTML, CSS, JavaScript files
+├── backend/            # machine learning backend
+├── frontend/           # Tkimnter files
 ├── main.py             # Entry point script
 └── requirements.txt    # Dependencies for the project
