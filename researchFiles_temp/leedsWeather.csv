@@ -1,0 +1,976 @@
+datetime,temp,conditions,precipitation
+2019-01-02,2.7,Overcast,0.0
+2019-01-03,1.2,Overcast,0.0
+2019-01-04,2.1,Overcast,0.0
+2019-01-05,4.1,Overcast,0.0
+2019-01-06,6.6,"Rain, Overcast",0.007
+2019-01-07,8.1,"Rain, Partially cloudy",1.038
+2019-01-08,4.6,Partially cloudy,0.0
+2019-01-09,1.6,"Snow, Rain, Partially cloudy",0.032
+2019-01-10,4.0,"Snow, Rain, Overcast",0.126
+2019-01-11,5.4,"Rain, Partially cloudy",0.007
+2019-01-12,7.8,"Rain, Partially cloudy",1.076
+2019-01-13,7.9,"Rain, Partially cloudy",0.303
+2019-01-14,5.4,"Rain, Partially cloudy",0.192
+2019-01-15,7.2,"Rain, Partially cloudy",0.169
+2019-01-16,5.2,"Rain, Partially cloudy",1.382
+2019-01-17,0.7,"Snow, Rain, Partially cloudy",0.383
+2019-01-18,0.1,"Snow, Rain, Partially cloudy",0.184
+2019-01-19,1.1,"Snow, Rain, Overcast",1.982
+2019-01-20,2.2,"Snow, Rain, Partially cloudy",0.147
+2019-01-21,2.4,"Snow, Rain, Partially cloudy",0.469
+2019-01-22,0.8,"Snow, Rain, Partially cloudy",4.547
+2019-01-23,-1.5,"Snow, Rain, Partially cloudy",0.028
+2019-01-24,1.7,"Snow, Rain, Partially cloudy",0.157
+2019-01-25,7.4,"Rain, Partially cloudy",0.437
+2019-01-26,6.9,"Rain, Partially cloudy",1.306
+2019-01-27,2.9,"Snow, Rain, Partially cloudy",6.174
+2019-01-28,0.4,"Snow, Rain, Partially cloudy",0.07
+2019-01-29,0.9,"Snow, Rain, Partially cloudy",1.197
+2019-01-30,-1.1,"Snow, Rain, Partially cloudy",0.375
+2019-01-31,-3.9,"Snow, Partially cloudy",0.019
+2019-02-01,-0.9,"Snow, Rain, Partially cloudy",0.108
+2019-02-02,-0.9,"Snow, Rain, Partially cloudy",0.646
+2019-02-03,0.6,"Rain, Partially cloudy",1.784
+2019-02-04,5.0,"Rain, Partially cloudy",2.196
+2019-02-05,3.9,"Snow, Rain, Partially cloudy",0.913
+2019-02-06,5.3,"Rain, Partially cloudy",2.494
+2019-02-07,4.2,"Rain, Partially cloudy",3.342
+2019-02-08,7.1,"Rain, Partially cloudy",1.347
+2019-02-09,5.3,"Rain, Partially cloudy",9.251
+2019-02-10,3.3,"Rain, Partially cloudy",0.114
+2019-02-11,3.6,"Snow, Rain, Partially cloudy",0.543
+2019-02-12,6.0,"Rain, Partially cloudy",0.018
+2019-02-13,7.8,Partially cloudy,0.0
+2019-02-14,7.2,"Rain, Partially cloudy",0.007
+2019-02-15,8.0,Rain,0.018
+2019-02-16,9.6,Partially cloudy,0.0
+2019-02-17,8.9,Partially cloudy,0.0
+2019-02-18,7.2,"Rain, Partially cloudy",0.273
+2019-02-19,6.4,"Rain, Partially cloudy",0.65
+2019-02-20,8.0,"Rain, Partially cloudy",0.792
+2019-02-21,10.3,"Rain, Partially cloudy",0.193
+2019-02-22,10.1,"Rain, Partially cloudy",0.037
+2019-02-23,9.3,"Rain, Partially cloudy",0.007
+2019-02-24,7.9,"Rain, Partially cloudy",0.037
+2019-02-25,9.0,"Rain, Partially cloudy",0.149
+2019-02-26,10.4,Rain,0.025
+2019-02-27,8.5,"Rain, Partially cloudy",0.007
+2019-02-28,6.0,"Rain, Partially cloudy",0.061
+2019-03-01,6.2,"Rain, Partially cloudy",0.432
+2019-03-02,8.4,"Rain, Partially cloudy",0.156
+2019-03-03,6.5,"Rain, Partially cloudy",7.514
+2019-03-04,4.2,"Rain, Partially cloudy",2.962
+2019-03-05,5.3,"Rain, Partially cloudy",1.521
+2019-03-06,8.3,"Rain, Partially cloudy",13.641
+2019-03-07,5.0,"Rain, Partially cloudy",6.44
+2019-03-08,3.9,"Rain, Partially cloudy",2.248
+2019-03-09,5.0,"Rain, Partially cloudy",5.755
+2019-03-10,2.4,"Snow, Rain, Partially cloudy",5.491
+2019-03-11,4.2,"Snow, Rain, Partially cloudy",1.819
+2019-03-12,5.1,"Rain, Partially cloudy",10.972
+2019-03-13,6.1,"Rain, Partially cloudy",7.556
+2019-03-14,7.2,"Rain, Partially cloudy",10.711
+2019-03-15,7.2,"Rain, Partially cloudy",3.583
+2019-03-16,6.8,"Rain, Partially cloudy",28.835
+2019-03-17,3.8,"Rain, Partially cloudy",0.962
+2019-03-18,5.2,"Rain, Partially cloudy",0.154
+2019-03-19,8.0,"Rain, Partially cloudy",0.127
+2019-03-20,11.2,"Rain, Partially cloudy",0.007
+2019-03-21,10.1,Partially cloudy,0.0
+2019-03-22,9.6,Overcast,0.0
+2019-03-23,5.8,"Rain, Partially cloudy",0.565
+2019-03-24,5.2,Partially cloudy,0.0
+2019-03-25,5.7,"Rain, Partially cloudy",0.036
+2019-03-26,6.1,Partially cloudy,0.0
+2019-03-27,7.4,Partially cloudy,0.0
+2019-03-28,7.7,Partially cloudy,0.0
+2019-03-29,8.1,Clear,0.0
+2019-03-30,6.0,Partially cloudy,0.0
+2019-03-31,5.6,"Rain, Partially cloudy",0.437
+2019-04-01,5.2,Partially cloudy,0.0
+2019-04-02,4.6,"Rain, Partially cloudy",1.492
+2019-04-03,2.7,"Snow, Rain, Partially cloudy",0.372
+2019-04-04,4.0,"Snow, Rain, Partially cloudy",1.989
+2019-04-05,6.9,"Rain, Partially cloudy",2.102
+2019-04-06,6.4,Partially cloudy,0.0
+2019-04-07,7.4,"Rain, Partially cloudy",0.297
+2019-04-08,6.8,Overcast,0.0
+2019-04-09,6.1,Partially cloudy,0.0
+2019-04-10,4.0,"Rain, Partially cloudy",0.012
+2019-04-11,4.0,Partially cloudy,0.0
+2019-04-12,3.5,Partially cloudy,0.0
+2019-04-13,3.1,Partially cloudy,0.0
+2019-04-14,3.1,Partially cloudy,0.0
+2019-04-15,5.6,Partially cloudy,0.0
+2019-04-16,7.6,"Rain, Overcast",0.085
+2019-04-17,9.2,"Rain, Partially cloudy",0.007
+2019-04-18,10.1,Partially cloudy,0.0
+2019-04-19,11.7,Partially cloudy,0.0
+2019-04-20,13.8,Partially cloudy,0.0
+2019-04-21,15.1,Clear,0.0
+2019-04-22,13.2,Clear,0.0
+2019-04-23,10.8,Partially cloudy,0.0
+2019-04-24,10.0,"Rain, Partially cloudy",4.282
+2019-04-25,8.8,"Rain, Partially cloudy",5.416
+2019-04-26,8.4,"Rain, Partially cloudy",2.803
+2019-04-27,6.7,"Rain, Partially cloudy",3.842
+2019-04-28,8.1,"Rain, Partially cloudy",1.653
+2019-04-29,7.8,"Rain, Partially cloudy",0.078
+2019-04-30,9.4,Partially cloudy,0.0
+2019-05-01,10.7,"Rain, Partially cloudy",0.099
+2019-05-02,8.7,"Rain, Partially cloudy",5.404
+2019-05-03,5.3,"Rain, Partially cloudy",6.411
+2019-05-04,5.0,"Rain, Partially cloudy",0.184
+2019-05-05,6.1,"Rain, Partially cloudy",0.04
+2019-05-06,5.8,"Rain, Partially cloudy",1.32
+2019-05-07,6.4,"Rain, Partially cloudy",1.45
+2019-05-08,6.3,"Rain, Partially cloudy",9.64
+2019-05-09,5.8,"Rain, Partially cloudy",2.248
+2019-05-10,5.8,"Rain, Partially cloudy",1.915
+2019-05-11,7.6,"Rain, Partially cloudy",4.458
+2019-05-12,9.2,Partially cloudy,0.0
+2019-05-13,12.4,Clear,0.0
+2019-05-14,13.7,Partially cloudy,0.0
+2019-05-15,13.2,Partially cloudy,0.0
+2019-05-16,10.1,Partially cloudy,0.0
+2019-05-17,10.9,"Rain, Partially cloudy",0.76
+2019-05-18,10.5,"Rain, Partially cloudy",0.42
+2019-05-19,11.1,"Rain, Partially cloudy",0.014
+2019-05-20,11.3,"Rain, Partially cloudy",0.037
+2019-05-21,11.1,Partially cloudy,0.0
+2019-05-22,11.4,"Rain, Partially cloudy",0.007
+2019-05-23,12.1,Partially cloudy,0.0
+2019-05-24,12.3,Partially cloudy,0.0
+2019-05-25,12.3,"Rain, Partially cloudy",0.531
+2019-05-26,13.5,"Rain, Partially cloudy",2.975
+2019-05-27,10.6,"Rain, Partially cloudy",3.326
+2019-05-28,9.2,"Rain, Partially cloudy",1.747
+2019-05-29,9.8,"Rain, Partially cloudy",0.435
+2019-05-30,15.4,"Rain, Partially cloudy",2.422
+2019-05-31,15.1,"Rain, Partially cloudy",0.291
+2019-06-01,15.6,"Rain, Partially cloudy",0.115
+2019-06-02,16.3,"Rain, Partially cloudy",0.185
+2019-06-03,13.0,Partially cloudy,0.0
+2019-06-04,11.4,"Rain, Partially cloudy",11.471
+2019-06-05,11.0,"Rain, Partially cloudy",7.103
+2019-06-06,11.3,"Rain, Partially cloudy",0.469
+2019-06-07,10.7,"Rain, Partially cloudy",6.455
+2019-06-08,10.4,"Rain, Partially cloudy",16.17
+2019-06-09,11.1,"Rain, Partially cloudy",2.173
+2019-06-10,10.3,"Rain, Partially cloudy",2.704
+2019-06-11,9.2,"Rain, Overcast",3.474
+2019-06-12,10.1,"Rain, Overcast",14.045
+2019-06-13,9.5,"Rain, Partially cloudy",12.077
+2019-06-14,11.0,"Rain, Partially cloudy",3.735
+2019-06-15,11.7,"Rain, Partially cloudy",4.125
+2019-06-16,12.3,"Rain, Partially cloudy",2.91
+2019-06-17,13.5,"Rain, Partially cloudy",2.098
+2019-06-18,14.1,"Rain, Partially cloudy",0.246
+2019-06-19,13.8,"Rain, Partially cloudy",2.278
+2019-06-20,12.2,"Rain, Partially cloudy",0.475
+2019-06-21,12.4,Partially cloudy,0.0
+2019-06-22,14.1,Partially cloudy,0.0
+2019-06-23,14.0,Partially cloudy,0.0
+2019-06-24,15.5,"Rain, Partially cloudy",7.109
+2019-06-25,13.3,"Rain, Overcast",6.186
+2019-06-26,11.5,"Rain, Overcast",3.607
+2019-06-27,13.4,Partially cloudy,0.0
+2019-06-28,14.4,Partially cloudy,0.0
+2019-06-29,18.5,Partially cloudy,0.0
+2019-06-30,16.2,Partially cloudy,0.0
+2019-07-01,13.7,"Rain, Partially cloudy",0.508
+2019-07-02,13.0,Partially cloudy,0.0
+2019-07-03,14.1,Partially cloudy,0.0
+2019-07-04,14.8,Partially cloudy,0.0
+2019-07-05,15.6,Partially cloudy,0.0
+2019-07-06,15.3,"Rain, Partially cloudy",0.227
+2019-07-07,13.5,Partially cloudy,0.0
+2019-07-08,13.6,Partially cloudy,0.0
+2019-07-09,13.9,"Rain, Overcast",2.235
+2019-07-10,16.6,"Rain, Partially cloudy",0.28
+2019-07-11,16.6,"Rain, Partially cloudy",1.417
+2019-07-12,15.9,"Rain, Partially cloudy",1.253
+2019-07-13,15.8,"Rain, Partially cloudy",0.132
+2019-07-14,15.0,"Rain, Partially cloudy",1.271
+2019-07-15,15.6,Partially cloudy,0.0
+2019-07-16,17.3,Partially cloudy,0.0
+2019-07-17,16.4,"Rain, Partially cloudy",0.818
+2019-07-18,15.6,"Rain, Partially cloudy",0.45
+2019-07-19,14.6,"Rain, Partially cloudy",8.644
+2019-07-20,15.9,"Rain, Partially cloudy",0.587
+2019-07-21,16.2,Partially cloudy,0.0
+2019-07-22,20.0,"Rain, Partially cloudy",2.005
+2019-07-23,21.9,Partially cloudy,0.0
+2019-07-24,20.9,"Rain, Partially cloudy",4.793
+2019-07-25,24.4,Partially cloudy,0.0
+2019-07-26,20.6,"Rain, Partially cloudy",0.509
+2019-07-27,14.9,"Rain, Overcast",20.942
+2019-07-28,15.3,"Rain, Overcast",16.11
+2019-07-29,17.0,"Rain, Partially cloudy",8.058
+2019-07-30,16.4,"Rain, Partially cloudy",10.7
+2019-07-31,16.4,"Rain, Partially cloudy",13.012
+2019-08-01,17.0,"Rain, Partially cloudy",0.227
+2019-08-02,16.5,"Rain, Partially cloudy",0.44
+2019-08-03,17.6,Partially cloudy,0.0
+2019-08-04,18.8,"Rain, Partially cloudy",0.371
+2019-08-05,16.8,"Rain, Partially cloudy",2.305
+2019-08-06,16.3,"Rain, Partially cloudy",0.462
+2019-08-07,15.1,"Rain, Partially cloudy",1.836
+2019-08-08,16.5,Partially cloudy,0.0
+2019-08-09,17.3,"Rain, Partially cloudy",6.458
+2019-08-10,16.0,"Rain, Partially cloudy",14.542
+2019-08-11,13.7,"Rain, Partially cloudy",0.69
+2019-08-12,11.9,"Rain, Partially cloudy",0.537
+2019-08-13,12.4,"Rain, Partially cloudy",0.784
+2019-08-14,12.8,"Rain, Partially cloudy",2.516
+2019-08-15,14.3,"Rain, Partially cloudy",6.84
+2019-08-16,14.1,"Rain, Partially cloudy",8.235
+2019-08-17,15.1,"Rain, Partially cloudy",0.927
+2019-08-18,13.8,"Rain, Partially cloudy",0.169
+2019-08-19,13.7,"Rain, Partially cloudy",0.915
+2019-08-20,13.0,"Rain, Partially cloudy",1.16
+2019-08-21,14.6,"Rain, Partially cloudy",0.652
+2019-08-22,15.5,"Rain, Partially cloudy",3.233
+2019-08-23,18.4,Partially cloudy,0.0
+2019-08-24,19.4,Partially cloudy,0.0
+2019-08-25,19.9,Partially cloudy,0.0
+2019-08-26,18.6,Partially cloudy,0.0
+2019-08-27,19.1,Partially cloudy,0.0
+2019-08-28,14.6,"Rain, Partially cloudy",3.107
+2019-08-29,13.8,"Rain, Partially cloudy",0.014
+2019-08-30,16.4,Partially cloudy,0.0
+2019-08-31,14.3,"Rain, Partially cloudy",1.192
+2019-09-01,11.5,"Rain, Partially cloudy",0.684
+2019-09-02,12.6,"Rain, Partially cloudy",0.94
+2019-09-03,15.1,"Rain, Partially cloudy",0.418
+2019-09-04,13.1,"Rain, Partially cloudy",3.274
+2019-09-05,11.0,"Rain, Partially cloudy",1.775
+2019-09-06,12.4,"Rain, Partially cloudy",3.358
+2019-09-07,11.1,"Rain, Partially cloudy",0.014
+2019-09-08,10.2,Partially cloudy,0.0
+2019-09-09,11.0,"Rain, Partially cloudy",2.195
+2019-09-10,11.5,"Rain, Partially cloudy",0.541
+2019-09-11,14.3,"Rain, Partially cloudy",1.106
+2019-09-12,14.8,"Rain, Partially cloudy",0.41
+2019-09-13,11.4,"Rain, Partially cloudy",0.078
+2019-09-14,12.5,Partially cloudy,0.0
+2019-09-15,13.2,"Rain, Partially cloudy",0.372
+2019-09-16,11.4,"Rain, Partially cloudy",2.413
+2019-09-17,10.5,Partially cloudy,0.0
+2019-09-18,10.3,Partially cloudy,0.0
+2019-09-19,12.9,Partially cloudy,0.0
+2019-09-20,14.4,"Rain, Partially cloudy",0.018
+2019-09-21,14.1,"Rain, Partially cloudy",0.012
+2019-09-22,13.4,"Rain, Partially cloudy",4.734
+2019-09-23,14.4,"Rain, Partially cloudy",1.32
+2019-09-24,14.2,"Rain, Partially cloudy",27.066
+2019-09-25,14.0,"Rain, Partially cloudy",0.461
+2019-09-26,13.9,"Rain, Partially cloudy",12.135
+2019-09-27,12.0,"Rain, Partially cloudy",5.859
+2019-09-28,12.4,"Rain, Partially cloudy",10.794
+2019-09-29,10.9,"Rain, Partially cloudy",35.883
+2019-09-30,11.3,"Rain, Partially cloudy",1.934
+2019-10-01,8.9,"Rain, Partially cloudy",26.453
+2019-10-02,6.8,"Rain, Partially cloudy",0.012
+2019-10-03,6.5,"Rain, Partially cloudy",0.007
+2019-10-04,10.4,"Rain, Partially cloudy",8.595
+2019-10-05,9.9,"Rain, Partially cloudy",0.101
+2019-10-06,10.8,"Rain, Partially cloudy",14.366
+2019-10-07,10.5,"Rain, Partially cloudy",3.35
+2019-10-08,11.0,"Rain, Partially cloudy",0.3
+2019-10-09,9.1,"Rain, Partially cloudy",5.848
+2019-10-10,10.6,"Rain, Partially cloudy",5.771
+2019-10-11,11.6,"Rain, Partially cloudy",10.964
+2019-10-12,10.1,"Rain, Partially cloudy",0.743
+2019-10-13,9.7,"Rain, Partially cloudy",5.398
+2019-10-14,8.9,"Rain, Partially cloudy",1.968
+2019-10-15,9.5,"Rain, Overcast",5.597
+2019-10-16,9.6,"Rain, Partially cloudy",3.099
+2019-10-17,8.7,"Rain, Partially cloudy",0.03
+2019-10-18,8.8,"Rain, Partially cloudy",2.212
+2019-10-19,8.5,"Rain, Partially cloudy",0.765
+2019-10-20,7.6,"Rain, Partially cloudy",0.723
+2019-10-21,7.8,"Rain, Partially cloudy",0.482
+2019-10-22,7.3,"Rain, Partially cloudy",0.012
+2019-10-23,8.8,Partially cloudy,0.0
+2019-10-24,9.0,"Rain, Partially cloudy",0.349
+2019-10-25,7.0,"Rain, Partially cloudy",21.712
+2019-10-26,4.6,"Rain, Partially cloudy",27.696
+2019-10-27,6.1,"Rain, Partially cloudy",0.218
+2019-10-28,3.7,"Rain, Partially cloudy",0.045
+2019-10-29,4.6,"Rain, Partially cloudy",0.103
+2019-10-30,5.2,"Rain, Partially cloudy",0.202
+2019-10-31,5.4,Partially cloudy,0.0
+2019-11-01,9.1,"Rain, Overcast",3.552
+2019-11-02,8.2,"Rain, Partially cloudy",7.234
+2019-11-03,6.7,"Rain, Partially cloudy",0.81
+2019-11-04,7.2,"Rain, Partially cloudy",4.127
+2019-11-05,7.1,"Rain, Partially cloudy",2.867
+2019-11-06,3.5,"Rain, Partially cloudy",0.576
+2019-11-07,5.8,"Rain, Partially cloudy",20.776
+2019-11-08,4.3,"Rain, Partially cloudy",17.997
+2019-11-09,2.2,"Snow, Rain, Partially cloudy",0.475
+2019-11-10,3.4,"Rain, Partially cloudy",0.506
+2019-11-11,4.8,"Rain, Partially cloudy",4.852
+2019-11-12,5.3,"Rain, Partially cloudy",7.236
+2019-11-13,3.0,"Rain, Partially cloudy",0.092
+2019-11-14,4.0,"Rain, Partially cloudy",1.364
+2019-11-15,5.6,"Rain, Partially cloudy",9.775
+2019-11-16,6.7,"Rain, Partially cloudy",2.255
+2019-11-17,5.9,"Rain, Partially cloudy",8.924
+2019-11-18,2.6,"Rain, Partially cloudy",0.035
+2019-11-19,0.8,"Rain, Partially cloudy",0.025
+2019-11-20,2.9,Partially cloudy,0.0
+2019-11-21,2.8,Partially cloudy,0.0
+2019-11-22,5.4,"Rain, Overcast",3.842
+2019-11-23,7.2,"Rain, Overcast",5.012
+2019-11-24,7.2,"Rain, Overcast",2.449
+2019-11-25,8.1,"Rain, Overcast",3.296
+2019-11-26,8.3,"Rain, Partially cloudy",2.467
+2019-11-27,7.1,"Rain, Overcast",4.682
+2019-11-28,5.8,"Rain, Partially cloudy",9.416
+2019-11-29,1.7,"Snow, Rain, Partially cloudy",0.034
+2019-11-30,0.3,"Snow, Rain, Partially cloudy",0.143
+2019-12-01,0.8,"Snow, Rain, Partially cloudy",0.085
+2019-12-02,3.2,"Rain, Partially cloudy",0.018
+2019-12-03,4.8,"Rain, Partially cloudy",0.007
+2019-12-04,4.6,Partially cloudy,0.0
+2019-12-05,6.8,"Rain, Partially cloudy",0.345
+2019-12-06,9.4,"Rain, Partially cloudy",2.519
+2019-12-07,7.9,"Rain, Partially cloudy",0.183
+2019-12-08,6.5,"Rain, Partially cloudy",7.029
+2019-12-09,4.0,"Rain, Partially cloudy",2.69
+2019-12-10,6.1,"Rain, Partially cloudy",6.769
+2019-12-11,3.4,"Rain, Partially cloudy",2.436
+2019-12-12,2.8,"Snow, Rain, Partially cloudy",5.684
+2019-12-13,4.7,"Rain, Partially cloudy",2.776
+2019-12-14,2.9,"Rain, Partially cloudy",8.901
+2019-12-15,2.7,"Rain, Partially cloudy",7.546
+2019-12-16,3.4,"Rain, Partially cloudy",1.381
+2019-12-17,2.0,"Rain, Partially cloudy",0.121
+2019-12-18,2.4,"Snow, Rain, Partially cloudy",0.208
+2019-12-19,9.3,"Rain, Partially cloudy",9.847
+2019-12-20,6.2,"Rain, Partially cloudy",1.096
+2019-12-21,4.6,"Rain, Partially cloudy",0.307
+2019-12-22,5.3,"Rain, Partially cloudy",0.862
+2019-12-23,5.9,"Rain, Partially cloudy",1.076
+2019-12-24,5.4,"Rain, Partially cloudy",1.658
+2019-12-25,4.7,"Rain, Partially cloudy",0.218
+2019-12-26,4.0,"Rain, Overcast",0.549
+2019-12-27,5.7,"Rain, Overcast",0.571
+2019-12-28,7.8,Partially cloudy,0.0
+2019-12-29,7.6,Partially cloudy,0.0
+2019-12-30,7.0,Partially cloudy,0.0
+2019-12-31,3.0,"Snow, Rain, Partially cloudy",0.104
+2020-01-01,4.1,"Rain, Partially cloudy",0.104
+2020-01-02,6.9,Partially cloudy,0.0
+2020-01-03,5.8,"Rain, Partially cloudy",0.628
+2020-01-04,6.2,"Rain, Partially cloudy",0.312
+2020-01-05,7.0,"Rain, Partially cloudy",0.092
+2020-01-06,6.8,"Rain, Partially cloudy",0.405
+2020-01-07,8.8,"Rain, Partially cloudy",0.014
+2020-01-08,7.3,"Rain, Partially cloudy",0.085
+2020-01-09,4.3,"Rain, Partially cloudy",7.803
+2020-01-10,3.7,"Rain, Partially cloudy",0.014
+2020-01-11,8.5,"Rain, Partially cloudy",2.434
+2020-01-12,5.5,"Rain, Partially cloudy",8.816
+2020-01-13,5.0,"Rain, Partially cloudy",2.098
+2020-01-14,5.7,"Rain, Partially cloudy",8.614
+2020-01-15,5.1,"Rain, Partially cloudy",0.952
+2020-01-16,6.9,"Rain, Partially cloudy",0.615
+2020-01-17,4.9,"Rain, Partially cloudy",3.106
+2020-01-18,3.0,"Rain, Partially cloudy",1.619
+2020-01-19,2.3,"Rain, Partially cloudy",0.007
+2020-01-20,4.1,"Rain, Partially cloudy",0.018
+2020-01-21,4.9,"Rain, Partially cloudy",0.007
+2020-01-22,6.9,"Rain, Partially cloudy",0.04
+2020-01-23,5.9,"Rain, Overcast",0.116
+2020-01-24,5.6,"Rain, Partially cloudy",0.014
+2020-01-25,5.0,"Rain, Overcast",0.021
+2020-01-26,5.5,"Rain, Partially cloudy",3.234
+2020-01-27,4.0,"Rain, Partially cloudy",2.565
+2020-01-28,2.7,"Snow, Rain, Partially cloudy",1.926
+2020-01-29,5.1,"Rain, Partially cloudy",3.076
+2020-01-30,7.8,"Rain, Partially cloudy",0.085
+2020-01-31,9.2,"Rain, Partially cloudy",0.506
+2020-02-01,7.4,"Rain, Partially cloudy",0.423
+2020-02-02,6.2,"Rain, Partially cloudy",3.794
+2020-02-03,5.6,"Rain, Partially cloudy",1.609
+2020-02-04,5.1,"Rain, Partially cloudy",2.67
+2020-02-05,3.4,Partially cloudy,0.0
+2020-02-06,3.8,"Rain, Partially cloudy",0.044
+2020-02-07,2.5,"Snow, Rain, Partially cloudy",0.012
+2020-02-08,6.5,"Rain, Partially cloudy",0.772
+2020-02-09,8.2,"Rain, Partially cloudy",39.551
+2020-02-10,3.5,"Rain, Partially cloudy",10.108
+2020-02-11,2.5,"Rain, Partially cloudy",7.223
+2020-02-12,2.7,"Rain, Partially cloudy",0.771
+2020-02-13,3.5,"Rain, Partially cloudy",7.104
+2020-02-14,5.0,"Rain, Partially cloudy",0.649
+2020-02-15,8.4,"Rain, Partially cloudy",7.191
+2020-02-16,6.0,"Rain, Partially cloudy",29.869
+2020-02-17,5.0,"Rain, Partially cloudy",0.726
+2020-02-18,4.2,"Rain, Partially cloudy",3.148
+2020-02-19,4.6,"Rain, Partially cloudy",2.52
+2020-02-20,5.7,"Rain, Partially cloudy",6.335
+2020-02-21,6.4,"Rain, Partially cloudy",5.182
+2020-02-22,6.9,"Rain, Partially cloudy",16.077
+2020-02-23,4.4,"Rain, Partially cloudy",14.153
+2020-02-24,4.1,"Snow, Rain, Partially cloudy",16.945
+2020-02-25,2.5,"Rain, Partially cloudy",4.92
+2020-02-26,2.1,"Snow, Rain, Partially cloudy",1.885
+2020-02-27,2.2,"Snow, Rain, Partially cloudy",1.798
+2020-02-28,3.9,"Snow, Rain, Partially cloudy",7.639
+2020-02-29,5.2,"Rain, Partially cloudy",4.32
+2020-03-01,4.0,"Rain, Partially cloudy",5.847
+2020-03-02,2.3,"Snow, Rain, Partially cloudy",0.186
+2020-03-03,3.1,"Snow, Rain, Partially cloudy",4.125
+2020-03-04,3.6,Partially cloudy,0.0
+2020-03-05,1.8,"Snow, Rain, Partially cloudy",0.109
+2020-03-06,2.5,"Rain, Partially cloudy",0.012
+2020-03-07,7.2,Partially cloudy,0.0
+2020-03-08,7.1,"Rain, Partially cloudy",2.981
+2020-03-09,5.8,"Rain, Partially cloudy",4.892
+2020-03-10,9.3,"Rain, Partially cloudy",13.587
+2020-03-11,6.9,"Rain, Partially cloudy",2.613
+2020-03-12,4.3,"Rain, Partially cloudy",6.839
+2020-03-13,4.9,"Rain, Partially cloudy",1.149
+2020-03-14,6.8,"Rain, Partially cloudy",0.655
+2020-03-15,7.0,"Rain, Partially cloudy",5.293
+2020-03-16,6.2,"Rain, Partially cloudy",0.182
+2020-03-17,9.6,"Rain, Partially cloudy",0.085
+2020-03-18,6.1,"Rain, Partially cloudy",1.3
+2020-03-19,4.8,"Rain, Partially cloudy",0.007
+2020-03-20,3.9,Partially cloudy,0.0
+2020-03-21,3.7,"Rain, Partially cloudy",0.03
+2020-03-22,4.2,Partially cloudy,0.0
+2020-03-23,4.4,Partially cloudy,0.0
+2020-03-24,8.8,Partially cloudy,0.0
+2020-03-25,10.0,Partially cloudy,0.0
+2020-03-26,6.2,Clear,0.0
+2020-03-27,4.3,"Rain, Partially cloudy",0.007
+2020-03-28,4.8,"Rain, Partially cloudy",0.035
+2020-03-29,2.6,"Snow, Rain, Partially cloudy",0.076
+2020-03-30,4.8,"Rain, Partially cloudy",0.053
+2020-03-31,5.1,"Rain, Partially cloudy",0.774
+2020-04-01,5.7,"Rain, Overcast",0.007
+2020-04-02,6.8,"Rain, Partially cloudy",0.007
+2020-04-03,5.9,"Rain, Partially cloudy",0.085
+2020-04-04,8.1,Partially cloudy,0.0
+2020-04-05,11.6,Partially cloudy,0.0
+2020-04-06,10.8,"Rain, Partially cloudy",0.555
+2020-04-07,9.5,Partially cloudy,0.0
+2020-04-08,11.9,Partially cloudy,0.0
+2020-04-09,8.8,Partially cloudy,0.0
+2020-04-10,11.7,Partially cloudy,0.0
+2020-04-11,14.6,"Rain, Partially cloudy",0.131
+2020-04-12,10.4,"Rain, Partially cloudy",0.014
+2020-04-13,4.8,"Rain, Partially cloudy",0.819
+2020-04-14,5.1,Partially cloudy,0.0
+2020-04-15,10.2,Partially cloudy,0.0
+2020-04-16,10.4,Partially cloudy,0.0
+2020-04-17,7.4,Partially cloudy,0.0
+2020-04-18,6.2,"Rain, Partially cloudy",0.177
+2020-04-19,7.6,Partially cloudy,0.0
+2020-04-20,7.6,Clear,0.0
+2020-04-21,8.9,Clear,0.0
+2020-04-22,9.8,Partially cloudy,0.0
+2020-04-23,9.8,Partially cloudy,0.0
+2020-04-24,10.4,Partially cloudy,0.0
+2020-04-25,9.4,Partially cloudy,0.0
+2020-04-26,12.1,Partially cloudy,0.0
+2020-04-27,9.6,"Rain, Partially cloudy",0.035
+2020-04-28,6.5,"Rain, Partially cloudy",1.309
+2020-04-29,6.2,"Rain, Partially cloudy",6.494
+2020-04-30,7.8,"Rain, Partially cloudy",1.113
+2020-05-01,7.6,"Rain, Partially cloudy",1.591
+2020-05-02,9.1,"Rain, Partially cloudy",0.102
+2020-05-03,9.1,"Rain, Partially cloudy",0.071
+2020-05-04,8.8,"Rain, Partially cloudy",0.571
+2020-05-05,7.2,Partially cloudy,0.0
+2020-05-06,8.4,Clear,0.0
+2020-05-07,12.1,Partially cloudy,0.0
+2020-05-08,14.0,"Rain, Partially cloudy",0.071
+2020-05-09,14.9,Partially cloudy,0.0
+2020-05-10,7.2,"Rain, Partially cloudy",0.38
+2020-05-11,4.5,"Rain, Partially cloudy",0.41
+2020-05-12,6.5,"Rain, Partially cloudy",0.254
+2020-05-13,5.2,"Rain, Partially cloudy",0.007
+2020-05-14,6.6,Partially cloudy,0.0
+2020-05-15,8.9,Partially cloudy,0.0
+2020-05-16,9.5,Partially cloudy,0.0
+2020-05-17,11.9,Partially cloudy,0.0
+2020-05-18,12.1,"Rain, Partially cloudy",0.376
+2020-05-19,14.0,"Rain, Partially cloudy",0.122
+2020-05-20,17.4,Partially cloudy,0.0
+2020-05-21,15.7,Partially cloudy,0.0
+2020-05-22,14.1,"Rain, Partially cloudy",1.579
+2020-05-23,11.3,"Rain, Partially cloudy",0.804
+2020-05-24,12.2,"Rain, Partially cloudy",0.663
+2020-05-25,14.3,Partially cloudy,0.0
+2020-05-26,14.0,Partially cloudy,0.0
+2020-05-27,13.8,Partially cloudy,0.0
+2020-05-28,14.9,Partially cloudy,0.0
+2020-05-29,16.4,Clear,0.0
+2020-05-30,13.9,Partially cloudy,0.0
+2020-05-31,14.8,Partially cloudy,0.0
+2020-06-01,15.2,Clear,0.0
+2020-06-02,15.4,Partially cloudy,0.0
+2020-06-03,10.6,"Rain, Partially cloudy",3.594
+2020-06-04,9.3,"Rain, Partially cloudy",1.193
+2020-06-05,8.5,"Rain, Partially cloudy",5.428
+2020-06-06,9.5,"Rain, Partially cloudy",6.348
+2020-06-07,9.7,"Rain, Partially cloudy",5.142
+2020-06-08,9.3,Partially cloudy,0.0
+2020-06-09,10.4,Partially cloudy,0.0
+2020-06-10,10.4,"Rain, Partially cloudy",6.258
+2020-06-11,10.1,"Rain, Overcast",4.159
+2020-06-12,11.5,"Rain, Overcast",25.315
+2020-06-13,14.9,"Rain, Partially cloudy",3.205
+2020-06-14,14.9,"Rain, Partially cloudy",1.376
+2020-06-15,16.5,Partially cloudy,0.0
+2020-06-16,15.9,"Rain, Partially cloudy",1.567
+2020-06-17,14.4,"Rain, Partially cloudy",1.522
+2020-06-18,12.1,"Rain, Overcast",8.446
+2020-06-19,12.7,"Rain, Partially cloudy",2.343
+2020-06-20,14.9,"Rain, Partially cloudy",0.176
+2020-06-21,14.6,"Rain, Partially cloudy",1.714
+2020-06-22,14.9,"Rain, Partially cloudy",0.071
+2020-06-23,18.8,Partially cloudy,0.0
+2020-06-24,21.6,Clear,0.0
+2020-06-25,20.3,Clear,0.0
+2020-06-26,18.7,"Rain, Partially cloudy",4.778
+2020-06-27,14.7,"Rain, Partially cloudy",8.872
+2020-06-28,11.7,"Rain, Partially cloudy",5.659
+2020-06-29,11.4,"Rain, Partially cloudy",6.249
+2020-06-30,12.8,"Rain, Partially cloudy",3.136
+2020-07-01,13.8,"Rain, Partially cloudy",1.34
+2020-07-02,11.4,"Rain, Overcast",12.726
+2020-07-03,12.9,"Rain, Partially cloudy",3.341
+2020-07-04,15.5,"Rain, Partially cloudy",1.65
+2020-07-05,13.5,"Rain, Partially cloudy",4.607
+2020-07-06,12.5,"Rain, Partially cloudy",4.064
+2020-07-07,11.3,"Rain, Partially cloudy",2.936
+2020-07-08,11.6,"Rain, Partially cloudy",5.431
+2020-07-09,10.7,"Rain, Overcast",28.553
+2020-07-10,11.8,"Rain, Partially cloudy",6.788
+2020-07-11,12.0,"Rain, Partially cloudy",0.007
+2020-07-12,13.4,Partially cloudy,0.0
+2020-07-13,14.3,"Rain, Partially cloudy",0.346
+2020-07-14,12.7,Partially cloudy,0.0
+2020-07-15,12.8,"Rain, Partially cloudy",0.462
+2020-07-16,15.2,Partially cloudy,0.0
+2020-07-17,17.0,"Rain, Partially cloudy",0.08
+2020-07-18,15.2,"Rain, Partially cloudy",0.604
+2020-07-19,12.6,Partially cloudy,0.0
+2020-07-20,11.6,Partially cloudy,0.0
+2020-07-21,12.7,Partially cloudy,0.0
+2020-07-22,14.3,"Rain, Overcast",0.144
+2020-07-23,14.5,"Rain, Partially cloudy",2.236
+2020-07-24,15.5,"Rain, Partially cloudy",0.014
+2020-07-25,16.0,"Rain, Partially cloudy",1.116
+2020-07-26,14.9,"Rain, Partially cloudy",1.708
+2020-07-27,14.1,"Rain, Partially cloudy",5.79
+2020-07-28,12.2,"Rain, Partially cloudy",0.846
+2020-07-29,13.0,"Rain, Partially cloudy",0.092
+2020-07-30,16.1,"Rain, Partially cloudy",1.308
+2020-07-31,21.1,Partially cloudy,0.0
+2020-08-01,15.8,"Rain, Partially cloudy",1.145
+2020-08-02,14.0,"Rain, Partially cloudy",0.168
+2020-08-03,13.1,"Rain, Partially cloudy",0.054
+2020-08-04,12.8,"Rain, Partially cloudy",1.087
+2020-08-05,17.7,"Rain, Partially cloudy",1.91
+2020-08-06,18.3,"Rain, Partially cloudy",0.271
+2020-08-07,20.8,Partially cloudy,0.0
+2020-08-08,17.3,Partially cloudy,0.0
+2020-08-09,15.5,Overcast,0.0
+2020-08-10,18.2,Partially cloudy,0.0
+2020-08-11,20.5,"Rain, Partially cloudy",0.007
+2020-08-12,21.7,"Rain, Partially cloudy",0.529
+2020-08-13,16.1,"Rain, Partially cloudy",0.071
+2020-08-14,15.4,"Rain, Overcast",1.762
+2020-08-15,14.7,"Rain, Overcast",0.026
+2020-08-16,14.0,"Rain, Overcast",7.843
+2020-08-17,15.5,"Rain, Partially cloudy",14.171
+2020-08-18,16.0,"Rain, Partially cloudy",4.968
+2020-08-19,16.1,"Rain, Partially cloudy",3.763
+2020-08-20,18.0,"Rain, Partially cloudy",3.992
+2020-08-21,15.9,"Rain, Partially cloudy",5.799
+2020-08-22,14.7,"Rain, Partially cloudy",4.609
+2020-08-23,14.2,"Rain, Partially cloudy",5.916
+2020-08-24,13.8,"Rain, Partially cloudy",0.889
+2020-08-25,14.2,"Rain, Partially cloudy",23.682
+2020-08-26,14.2,"Rain, Partially cloudy",5.016
+2020-08-27,12.1,"Rain, Partially cloudy",4.986
+2020-08-28,10.9,"Rain, Partially cloudy",18.949
+2020-08-29,9.9,"Rain, Partially cloudy",1.746
+2020-08-30,9.8,Partially cloudy,0.0
+2020-08-31,11.0,Partially cloudy,0.0
+2020-09-01,12.9,Partially cloudy,0.0
+2020-09-02,13.2,"Rain, Partially cloudy",7.44
+2020-09-03,15.4,"Rain, Partially cloudy",3.681
+2020-09-04,12.9,"Rain, Partially cloudy",0.204
+2020-09-05,11.7,"Rain, Partially cloudy",0.177
+2020-09-06,12.7,"Rain, Partially cloudy",1.444
+2020-09-07,13.3,"Rain, Overcast",1.688
+2020-09-08,17.4,"Rain, Partially cloudy",0.573
+2020-09-09,14.5,"Rain, Partially cloudy",0.444
+2020-09-10,10.1,Partially cloudy,0.0
+2020-09-11,12.6,Partially cloudy,0.0
+2020-09-12,13.3,"Rain, Partially cloudy",1.639
+2020-09-13,16.7,Partially cloudy,0.0
+2020-09-14,17.7,Partially cloudy,0.0
+2020-09-15,18.2,Partially cloudy,0.0
+2020-09-16,13.6,"Rain, Partially cloudy",0.039
+2020-09-17,12.3,"Rain, Partially cloudy",0.071
+2020-09-18,11.3,Partially cloudy,0.0
+2020-09-19,12.4,Partially cloudy,0.0
+2020-09-20,12.2,Partially cloudy,0.0
+2020-09-21,13.0,Partially cloudy,0.0
+2020-09-22,14.3,Partially cloudy,0.0
+2020-09-23,11.1,"Rain, Partially cloudy",13.949
+2020-09-24,7.6,"Rain, Partially cloudy",7.944
+2020-09-25,8.3,"Rain, Partially cloudy",1.332
+2020-09-26,7.5,"Rain, Partially cloudy",0.091
+2020-09-27,8.4,Partially cloudy,0.0
+2020-09-28,9.3,Partially cloudy,0.0
+2020-09-29,11.2,"Rain, Partially cloudy",0.129
+2020-09-30,10.5,"Rain, Partially cloudy",6.383
+2020-10-01,9.0,"Rain, Partially cloudy",1.037
+2020-10-02,8.9,"Rain, Partially cloudy",0.136
+2020-10-03,11.4,"Rain, Overcast",19.648
+2020-10-04,10.4,"Rain, Partially cloudy",15.784
+2020-10-05,11.1,"Rain, Partially cloudy",1.293
+2020-10-06,10.2,"Rain, Partially cloudy",4.199
+2020-10-07,10.3,"Rain, Partially cloudy",0.515
+2020-10-08,8.7,"Rain, Partially cloudy",15.737
+2020-10-09,7.5,"Rain, Partially cloudy",0.866
+2020-10-10,8.3,"Rain, Partially cloudy",2.956
+2020-10-11,8.3,"Rain, Partially cloudy",0.065
+2020-10-12,8.5,"Rain, Partially cloudy",0.611
+2020-10-13,7.4,"Rain, Partially cloudy",2.25
+2020-10-14,9.3,"Rain, Partially cloudy",0.938
+2020-10-15,7.3,"Rain, Partially cloudy",1.548
+2020-10-16,7.9,"Rain, Partially cloudy",0.162
+2020-10-17,8.5,"Rain, Partially cloudy",1.262
+2020-10-18,7.8,"Rain, Overcast",0.254
+2020-10-19,9.6,"Rain, Partially cloudy",0.018
+2020-10-20,12.0,"Rain, Partially cloudy",1.442
+2020-10-21,12.4,"Rain, Partially cloudy",1.981
+2020-10-22,8.7,"Rain, Partially cloudy",0.592
+2020-10-23,6.8,"Rain, Partially cloudy",0.501
+2020-10-24,8.7,"Rain, Partially cloudy",8.727
+2020-10-25,7.5,"Rain, Partially cloudy",1.356
+2020-10-26,7.6,"Rain, Partially cloudy",3.466
+2020-10-27,7.2,"Rain, Partially cloudy",4.026
+2020-10-28,7.0,"Rain, Partially cloudy",0.994
+2020-10-29,9.6,"Rain, Partially cloudy",9.6
+2020-10-30,10.9,"Rain, Partially cloudy",1.726
+2020-10-31,10.3,"Rain, Partially cloudy",1.907
+2020-11-01,11.0,"Rain, Partially cloudy",3.247
+2020-11-02,9.7,"Rain, Partially cloudy",20.057
+2020-11-03,5.3,"Rain, Partially cloudy",6.017
+2020-11-04,5.7,"Rain, Partially cloudy",0.071
+2020-11-05,7.4,"Rain, Partially cloudy",0.102
+2020-11-06,6.3,"Rain, Partially cloudy",0.163
+2020-11-07,5.3,"Rain, Overcast",0.025
+2020-11-08,7.7,"Rain, Overcast",0.771
+2020-11-09,10.2,"Rain, Overcast",0.989
+2020-11-10,10.6,"Rain, Partially cloudy",0.64
+2020-11-11,9.9,"Rain, Partially cloudy",0.007
+2020-11-12,8.9,"Rain, Partially cloudy",2.614
+2020-11-13,8.0,"Rain, Partially cloudy",2.683
+2020-11-14,9.4,"Rain, Partially cloudy",1.125
+2020-11-15,8.4,"Rain, Partially cloudy",3.11
+2020-11-16,8.9,"Rain, Partially cloudy",3.422
+2020-11-17,12.5,"Rain, Partially cloudy",0.946
+2020-11-18,10.0,"Rain, Partially cloudy",1.997
+2020-11-19,4.7,"Rain, Partially cloudy",1.728
+2020-11-20,6.3,"Rain, Partially cloudy",0.62
+2020-11-21,9.2,"Rain, Partially cloudy",0.33
+2020-11-22,5.4,"Rain, Partially cloudy",0.346
+2020-11-23,5.6,"Rain, Partially cloudy",0.346
+2020-11-24,9.6,"Rain, Partially cloudy",0.018
+2020-11-25,6.4,"Rain, Partially cloudy",1.539
+2020-11-26,5.0,"Rain, Partially cloudy",0.092
+2020-11-27,3.5,Partially cloudy,0.0
+2020-11-28,3.3,"Rain, Partially cloudy",2.953
+2020-11-29,6.6,"Rain, Overcast",0.868
+2020-11-30,7.1,"Rain, Partially cloudy",0.494
+2020-12-01,3.4,Partially cloudy,0.0
+2020-12-02,5.1,"Rain, Partially cloudy",0.036
+2020-12-03,2.5,"Snow, Rain, Partially cloudy",4.578
+2020-12-04,1.6,"Snow, Rain, Partially cloudy",11.013
+2020-12-05,2.5,"Snow, Rain, Partially cloudy",6.017
+2020-12-06,3.6,"Rain, Partially cloudy",3.404
+2020-12-07,2.2,"Snow, Rain, Partially cloudy",0.557
+2020-12-08,3.5,"Snow, Rain, Partially cloudy",0.876
+2020-12-09,4.2,"Rain, Partially cloudy",1.211
+2020-12-10,3.7,"Rain, Overcast",0.428
+2020-12-11,6.0,"Rain, Overcast",3.372
+2020-12-12,5.9,"Rain, Partially cloudy",0.984
+2020-12-13,5.2,"Rain, Partially cloudy",9.189
+2020-12-14,8.0,"Rain, Partially cloudy",0.912
+2020-12-15,6.1,"Rain, Partially cloudy",0.025
+2020-12-16,6.6,"Rain, Partially cloudy",5.983
+2020-12-17,6.6,"Rain, Partially cloudy",0.259
+2020-12-18,11.3,"Rain, Partially cloudy",2.999
+2020-12-19,8.3,"Rain, Partially cloudy",4.25
+2020-12-20,5.3,"Rain, Partially cloudy",0.685
+2020-12-21,5.6,"Rain, Partially cloudy",1.546
+2020-12-22,3.8,"Rain, Partially cloudy",1.394
+2020-12-23,3.6,"Rain, Partially cloudy",5.6
+2020-12-24,1.2,"Snow, Rain, Partially cloudy",0.876
+2020-12-25,0.7,"Snow, Rain, Partially cloudy",0.014
+2020-12-26,5.9,"Rain, Partially cloudy",0.362
+2020-12-27,3.0,"Snow, Rain, Partially cloudy",27.369
+2020-12-28,0.1,"Snow, Rain, Partially cloudy",0.653
+2020-12-29,0.4,"Snow, Rain, Partially cloudy",1.64
+2020-12-30,-0.5,Partially cloudy,0.0
+2020-12-31,-1.2,"Snow, Rain, Partially cloudy",0.03
+2021-01-01,1.9,"Rain, Partially cloudy",0.943
+2021-01-02,-0.2,"Snow, Rain, Partially cloudy",0.734
+2021-01-03,1.4,"Snow, Rain, Partially cloudy",3.341
+2021-01-04,1.3,"Snow, Rain, Partially cloudy",0.299
+2021-01-05,1.0,"Snow, Rain, Partially cloudy",0.979
+2021-01-06,0.3,"Snow, Rain, Partially cloudy",0.539
+2021-01-07,-0.6,"Snow, Rain, Partially cloudy",0.121
+2021-01-08,0.1,"Snow, Rain, Overcast",1.569
+2021-01-09,-1.1,"Snow, Rain, Partially cloudy",0.309
+2021-01-10,2.9,"Snow, Rain, Overcast",1.588
+2021-01-11,5.8,"Rain, Partially cloudy",2.747
+2021-01-12,1.7,"Snow, Rain, Partially cloudy",5.467
+2021-01-13,0.5,"Snow, Rain, Overcast",3.893
+2021-01-14,0.2,"Snow, Rain, Overcast",14.639
+2021-01-15,-2.0,"Snow, Rain, Partially cloudy",0.124
+2021-01-16,3.3,"Snow, Rain, Partially cloudy",13.961
+2021-01-17,4.2,"Rain, Partially cloudy",0.347
+2021-01-18,4.5,"Rain, Partially cloudy",1.436
+2021-01-19,7.8,"Rain, Partially cloudy",10.623
+2021-01-20,8.2,"Rain, Partially cloudy",21.406
+2021-01-21,2.3,"Snow, Rain, Partially cloudy",11.568
+2021-01-22,2.2,"Rain, Partially cloudy",0.501
+2021-01-23,-0.6,"Snow, Rain, Partially cloudy",0.255
+2021-01-24,-1.8,"Snow, Rain, Partially cloudy",0.007
+2021-01-25,0.7,"Rain, Partially cloudy",0.116
+2021-01-26,1.5,"Snow, Rain, Partially cloudy",1.974
+2021-01-27,5.4,"Rain, Partially cloudy",0.22
+2021-01-28,4.1,"Rain, Overcast",13.037
+2021-01-29,6.1,"Rain, Partially cloudy",4.526
+2021-01-30,1.0,"Snow, Rain, Partially cloudy",0.019
+2021-01-31,-0.8,"Snow, Rain, Partially cloudy",0.007
+2021-02-01,0.4,"Snow, Rain, Partially cloudy",0.102
+2021-02-02,0.8,"Snow, Rain, Overcast",3.433
+2021-02-03,2.8,"Rain, Overcast",15.483
+2021-02-04,3.5,"Rain, Overcast",4.531
+2021-02-05,5.0,"Rain, Partially cloudy",3.546
+2021-02-06,2.9,"Snow, Rain, Overcast",28.723
+2021-02-07,0.0,"Snow, Rain, Partially cloudy",3.91
+2021-02-08,-1.3,"Snow, Rain, Partially cloudy",0.03
+2021-02-09,-2.0,"Snow, Rain, Partially cloudy",0.119
+2021-02-10,-2.7,"Snow, Rain, Partially cloudy",0.07
+2021-02-11,-2.4,Partially cloudy,0.0
+2021-02-12,-2.6,Partially cloudy,0.0
+2021-02-13,-1.9,Partially cloudy,0.0
+2021-02-14,1.2,"Snow, Rain, Overcast",3.273
+2021-02-15,6.6,"Rain, Partially cloudy",1.602
+2021-02-16,7.7,"Rain, Partially cloudy",2.238
+2021-02-17,7.3,"Rain, Partially cloudy",1.371
+2021-02-18,6.7,"Rain, Partially cloudy",2.163
+2021-02-19,7.4,"Rain, Partially cloudy",0.801
+2021-02-20,10.9,"Rain, Partially cloudy",0.131
+2021-02-21,9.0,"Rain, Partially cloudy",0.034
+2021-02-22,6.8,"Rain, Partially cloudy",1.765
+2021-02-23,8.8,"Rain, Partially cloudy",0.025
+2021-02-24,11.4,"Rain, Partially cloudy",1.189
+2021-02-25,6.1,"Rain, Partially cloudy",1.385
+2021-02-26,4.6,"Rain, Partially cloudy",0.03
+2021-02-27,5.0,Partially cloudy,0.0
+2021-02-28,4.5,"Rain, Partially cloudy",0.092
+2021-03-01,2.3,"Rain, Partially cloudy",0.096
+2021-03-02,1.5,Overcast,0.0
+2021-03-03,1.0,"Snow, Rain, Overcast",0.007
+2021-03-04,2.7,"Snow, Rain, Partially cloudy",0.646
+2021-03-05,2.3,"Rain, Overcast",0.042
+2021-03-06,2.2,Overcast,0.0
+2021-03-07,2.7,Partially cloudy,0.0
+2021-03-08,4.8,"Rain, Partially cloudy",0.337
+2021-03-09,5.9,Partially cloudy,0.0
+2021-03-10,7.3,"Rain, Partially cloudy",12.795
+2021-03-11,6.0,"Rain, Partially cloudy",11.046
+2021-03-12,4.3,"Rain, Partially cloudy",4.885
+2021-03-13,3.8,"Rain, Partially cloudy",10.944
+2021-03-14,5.3,"Rain, Partially cloudy",1.816
+2021-03-15,6.9,"Rain, Partially cloudy",0.601
+2021-03-16,8.8,"Rain, Partially cloudy",1.322
+2021-03-17,6.1,Partially cloudy,0.0
+2021-03-18,7.3,"Rain, Partially cloudy",0.007
+2021-03-19,6.2,"Rain, Overcast",0.091
+2021-03-20,7.1,"Rain, Partially cloudy",0.018
+2021-03-21,6.5,Partially cloudy,0.0
+2021-03-22,5.8,Partially cloudy,0.0
+2021-03-23,7.2,Overcast,0.0
+2021-03-24,7.8,"Rain, Partially cloudy",0.169
+2021-03-25,8.3,"Rain, Partially cloudy",0.592
+2021-03-26,6.4,"Rain, Partially cloudy",2.11
+2021-03-27,5.3,"Snow, Rain, Partially cloudy",2.839
+2021-03-28,10.0,"Rain, Partially cloudy",4.581
+2021-03-29,12.2,"Rain, Partially cloudy",2.222
+2021-03-30,12.4,Partially cloudy,0.0
+2021-03-31,13.9,Partially cloudy,0.0
+2021-04-01,5.3,"Rain, Overcast",0.156
+2021-04-02,4.8,Partially cloudy,0.0
+2021-04-03,5.5,Partially cloudy,0.0
+2021-04-04,5.9,Partially cloudy,0.0
+2021-04-05,2.7,"Snow, Rain, Partially cloudy",0.196
+2021-04-06,0.4,"Snow, Rain, Partially cloudy",0.099
+2021-04-07,1.3,Partially cloudy,0.0
+2021-04-08,5.9,"Rain, Partially cloudy",0.17
+2021-04-09,5.3,"Rain, Partially cloudy",0.722
+2021-04-10,1.9,"Rain, Partially cloudy",0.845
+2021-04-11,1.2,"Snow, Rain, Partially cloudy",0.799
+2021-04-12,2.3,"Snow, Rain, Partially cloudy",0.181
+2021-04-13,4.2,"Rain, Partially cloudy",0.007
+2021-04-14,5.1,"Rain, Partially cloudy",0.065
+2021-04-15,4.2,Clear,0.0
+2021-04-16,5.3,Partially cloudy,0.0
+2021-04-17,6.9,Partially cloudy,0.0
+2021-04-18,7.3,Partially cloudy,0.0
+2021-04-19,8.3,Partially cloudy,0.0
+2021-04-20,9.4,Partially cloudy,0.0
+2021-04-21,7.1,Partially cloudy,0.0
+2021-04-22,6.8,Clear,0.0
+2021-04-23,9.6,Partially cloudy,0.0
+2021-04-24,8.5,Partially cloudy,0.0
+2021-04-25,6.6,Partially cloudy,0.0
+2021-04-26,7.2,Partially cloudy,0.0
+2021-04-27,7.7,"Rain, Overcast",1.1
+2021-04-28,5.8,"Rain, Partially cloudy",3.343
+2021-04-29,4.4,"Rain, Partially cloudy",0.819
+2021-04-30,4.2,"Snow, Rain, Partially cloudy",0.491
+2021-05-01,5.1,"Rain, Partially cloudy",0.931
+2021-05-02,5.8,"Rain, Partially cloudy",0.096
+2021-05-03,6.0,"Rain, Partially cloudy",18.74
+2021-05-04,5.0,"Rain, Partially cloudy",5.713
+2021-05-05,4.9,"Rain, Partially cloudy",1.449
+2021-05-06,3.8,"Rain, Partially cloudy",3.053
+2021-05-07,5.8,"Snow, Rain, Partially cloudy",0.922
+2021-05-08,7.4,"Rain, Partially cloudy",14.49
+2021-05-09,12.3,"Rain, Partially cloudy",6.265
+2021-05-10,10.9,"Rain, Partially cloudy",0.653
+2021-05-11,8.6,"Rain, Partially cloudy",3.079
+2021-05-12,8.8,"Rain, Partially cloudy",13.652
+2021-05-13,9.3,"Rain, Partially cloudy",1.437
+2021-05-14,8.1,"Rain, Overcast",0.259
+2021-05-15,8.1,"Rain, Partially cloudy",4.681
+2021-05-16,9.6,"Rain, Partially cloudy",8.318
+2021-05-17,8.7,"Rain, Partially cloudy",3.037
+2021-05-18,9.8,"Rain, Partially cloudy",0.871
+2021-05-19,9.1,"Rain, Partially cloudy",1.23
+2021-05-20,8.0,"Rain, Partially cloudy",9.566
+2021-05-21,9.7,"Rain, Partially cloudy",6.542
+2021-05-22,7.3,"Rain, Partially cloudy",1.326
+2021-05-23,7.7,"Rain, Partially cloudy",1.133
+2021-05-24,8.6,"Rain, Partially cloudy",6.905
+2021-05-25,8.7,"Rain, Partially cloudy",1.808
+2021-05-26,8.6,"Rain, Partially cloudy",4.142
+2021-05-27,11.2,"Rain, Partially cloudy",1.287
+2021-05-28,12.7,"Rain, Partially cloudy",0.298
+2021-05-29,13.9,Partially cloudy,0.0
+2021-05-30,12.4,Partially cloudy,0.0
+2021-05-31,12.0,Partially cloudy,0.0
+2021-06-01,14.6,Partially cloudy,0.0
+2021-06-02,14.8,Partially cloudy,0.0
+2021-06-03,13.8,"Rain, Partially cloudy",0.156
+2021-06-04,13.2,Partially cloudy,0.0
+2021-06-05,15.2,Partially cloudy,0.0
+2021-06-06,15.1,"Rain, Partially cloudy",0.274
+2021-06-07,15.5,"Rain, Partially cloudy",0.231
+2021-06-08,15.1,Partially cloudy,0.0
+2021-06-09,17.1,Partially cloudy,0.0
+2021-06-10,17.8,Partially cloudy,0.0
+2021-06-11,16.1,Partially cloudy,0.0
+2021-06-12,13.5,Partially cloudy,0.0
+2021-06-13,17.2,Partially cloudy,0.0
+2021-06-14,14.7,"Rain, Partially cloudy",0.169
+2021-06-15,14.3,Partially cloudy,0.0
+2021-06-16,17.8,Partially cloudy,0.0
+2021-06-17,15.0,"Rain, Partially cloudy",0.734
+2021-06-18,12.9,"Rain, Partially cloudy",1.349
+2021-06-19,13.1,"Rain, Partially cloudy",0.58
+2021-06-20,12.1,"Rain, Partially cloudy",1.627
+2021-06-21,10.1,"Rain, Partially cloudy",0.142
+2021-06-22,11.7,"Rain, Partially cloudy",0.071
+2021-06-23,12.6,Partially cloudy,0.0
+2021-06-24,15.0,"Rain, Partially cloudy",1.069
+2021-06-25,11.2,"Rain, Overcast",4.627
+2021-06-26,12.9,"Rain, Partially cloudy",0.101
+2021-06-27,13.8,Overcast,0.0
+2021-06-28,13.7,"Rain, Overcast",1.425
+2021-06-29,15.2,"Rain, Partially cloudy",0.388
+2021-06-30,12.9,"Rain, Partially cloudy",0.014
+2021-07-01,14.2,Partially cloudy,0.0
+2021-07-02,16.0,"Rain, Partially cloudy",0.062
+2021-07-03,15.7,"Rain, Partially cloudy",5.975
+2021-07-04,15.7,"Rain, Partially cloudy",22.42
+2021-07-05,14.3,"Rain, Partially cloudy",11.104
+2021-07-06,13.4,"Rain, Partially cloudy",17.152
+2021-07-07,15.5,"Rain, Partially cloudy",2.528
+2021-07-08,15.8,"Rain, Partially cloudy",0.141
+2021-07-09,16.0,Partially cloudy,0.0
+2021-07-10,15.7,"Rain, Partially cloudy",5.644
+2021-07-11,16.0,"Rain, Partially cloudy",0.572
+2021-07-12,14.5,"Rain, Partially cloudy",23.111
+2021-07-13,16.0,"Rain, Partially cloudy",2.296
+2021-07-14,16.4,Partially cloudy,0.0
+2021-07-15,17.0,Partially cloudy,0.0
+2021-07-16,18.9,Partially cloudy,0.0
+2021-07-17,21.3,Clear,0.0
+2021-07-18,21.0,Partially cloudy,0.0
+2021-07-19,19.8,Partially cloudy,0.0
+2021-07-20,20.9,Partially cloudy,0.0
+2021-07-21,19.7,Partially cloudy,0.0
+2021-07-22,20.8,Partially cloudy,0.0
+2021-07-23,16.2,"Rain, Partially cloudy",0.049
+2021-07-24,15.1,Overcast,0.0
+2021-07-25,16.3,Partially cloudy,0.0
+2021-07-26,17.9,Partially cloudy,0.0
+2021-07-27,16.0,"Rain, Partially cloudy",5.15
+2021-07-28,13.8,"Rain, Partially cloudy",8.03
+2021-07-29,13.2,"Rain, Partially cloudy",3.392
+2021-07-30,12.4,"Rain, Partially cloudy",9.546
+2021-07-31,14.3,"Rain, Partially cloudy",1.676
+2021-08-01,13.1,"Rain, Partially cloudy",0.925
+2021-08-02,13.4,Partially cloudy,0.0
+2021-08-03,14.3,Partially cloudy,0.0
+2021-08-04,15.0,"Rain, Partially cloudy",1.874
+2021-08-05,15.5,"Rain, Partially cloudy",2.459
+2021-08-06,15.1,"Rain, Partially cloudy",8.323
+2021-08-07,14.1,"Rain, Partially cloudy",1.291
+2021-08-08,14.6,"Rain, Partially cloudy",14.839
+2021-08-09,14.6,"Rain, Partially cloudy",0.128
+2021-08-10,15.4,"Rain, Partially cloudy",0.411
+2021-08-11,15.4,"Rain, Partially cloudy",0.311
+2021-08-12,15.2,"Rain, Partially cloudy",1.068
+2021-08-13,15.3,Partially cloudy,0.0
+2021-08-14,14.7,"Rain, Partially cloudy",0.014
+2021-08-15,15.0,"Rain, Partially cloudy",0.481
+2021-08-16,13.7,"Rain, Partially cloudy",0.021
+2021-08-17,14.4,"Rain, Partially cloudy",0.793
+2021-08-18,14.5,"Rain, Partially cloudy",0.007
+2021-08-19,15.0,"Rain, Partially cloudy",1.788
+2021-08-20,16.8,"Rain, Partially cloudy",0.936
+2021-08-21,16.1,"Rain, Partially cloudy",8.297
+2021-08-22,15.8,"Rain, Partially cloudy",6.057
+2021-08-23,15.9,"Rain, Partially cloudy",0.156
+2021-08-24,15.4,Partially cloudy,0.0
+2021-08-25,15.2,"Rain, Partially cloudy",0.007
+2021-08-26,13.7,"Rain, Overcast",0.018
+2021-08-27,12.5,Overcast,0.0
+2021-08-28,13.9,Partially cloudy,0.0
+2021-08-29,12.9,Partially cloudy,0.0
+2021-08-30,12.9,"Rain, Overcast",0.055
+2021-08-31,12.2,"Rain, Partially cloudy",0.624
+2021-09-01,12.8,"Rain, Partially cloudy",0.47
+2021-09-02,13.9,"Rain, Partially cloudy",0.156
